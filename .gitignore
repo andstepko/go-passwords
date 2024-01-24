@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*main
+
+# Profiler output files
+*.pprof
+
+vendor
+.idea
+*sublime*
+.DS_Store
+.vscode
+
+build/
+
+# Selenium tests
+packages
+bin
+obj
+.vs
+web-auth/src/**/*.css
+.history/
+
+*.pb.go
+
+dictionaries
